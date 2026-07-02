@@ -2,6 +2,8 @@
 
 An AI-powered technical interview platform that revolutionizes candidate assessment through automated, intelligent mock interviews. Built with Next.js, Firebase, and OpenAI's GPT-4 for comprehensive evaluation.
 
+🔗 **Live Demo**: [https://smartaiinterview-seven.vercel.app](https://smartaiinterview-seven.vercel.app)
+
 ## 🚀 Features
 
 - **Automated Interviews**: Conduct technical interviews across multiple domains (Java, Frontend, Data Science, etc.) and difficulty levels (Beginner to Expert)
